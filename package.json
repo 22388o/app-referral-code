@@ -1,6 +1,6 @@
 {
   "name": "app-referral-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A referral code generation app built with React and Express.",
   "main": "App.js",
   "scripts": {
